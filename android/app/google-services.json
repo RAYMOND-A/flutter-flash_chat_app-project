@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733515381257",
+    "firebase_url": "https://flash-chat-66fd8.firebaseio.com",
+    "project_id": "flash-chat-66fd8",
+    "storage_bucket": "flash-chat-66fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733515381257:android:997e8d5cd93bc177ec16d8",
+        "android_client_info": {
+          "package_name": "co.raymondakime.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733515381257-05uldui1i5fdsh74v7tatai12p963jug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaubEmBBN3XNuQZWdM6ceBt-eEjLbevOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733515381257-05uldui1i5fdsh74v7tatai12p963jug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
